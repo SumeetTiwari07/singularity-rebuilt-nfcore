@@ -5,7 +5,7 @@ A bash script to rebuilt the singularity images for nf-core pipelines.
 A bash script to rebuild the singularity containers for the nf-core/mag pipeline with same name as required. \
 This is useful in a scenario when a user have `singularity v2 instead v3` installed on their local machine and \
 cannot upgrade. At the moment its only tested for `nf-core/mag` pipeline. The background information required \
-for developing this script was obtained from https://nf-co.re/tools/#downloading-pipelines-for-offline-use
+for developing this script was obtained from https://nf-co.re/tools/#downloading-pipelines-for-offline-use \
 For further information on the different nf-core pipelines refer to citation section below.
 
 **To rebuiltd the singularity images** \
