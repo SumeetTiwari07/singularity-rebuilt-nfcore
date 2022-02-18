@@ -39,6 +39,7 @@ $PWD
 
 
 **For citation** \
-Please refer to their nfc-core home page: https://nf-co.re/ \
-                                          https://nf-co.re/tools/#downloading-pipelines-for-offline-use \
-                                          https://nf-co.re/mag/2.1.1 \
+Please refer to their nfc-core home page: \ 
+https://nf-co.re/ \
+https://nf-co.re/tools/#downloading-pipelines-for-offline-use \
+https://nf-co.re/mag/2.1.1 \
