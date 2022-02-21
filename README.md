@@ -9,7 +9,7 @@ for developing this script was obtained from https://nf-co.re/tools/#downloading
 For further information on the different nf-core pipelines refer to citation section below.
 
 **To rebuiltd the singularity images** \
-`bash rebuilt.sh $tool_name` ($tool_name=mag)
+`bash rebuilt.sh $tool_name` ($tool_name=mag) \
 `bash rebuilt.sh mag` 
 
 **Expected output**
