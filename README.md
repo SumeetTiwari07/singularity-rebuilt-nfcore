@@ -36,7 +36,11 @@ $PWD
 |        .
 
 ```
+**Note**
+#Edit the ./workflows/nextflow.config
+#Add the following statement at the bottom in the nextflow.config
 
+```singularity.cacheDir = "${projectDir}/../singularity-images/"```
 
 **For citation** \
 Please refer to their nfc-core home page
