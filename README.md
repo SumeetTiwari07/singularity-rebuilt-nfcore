@@ -36,9 +36,9 @@ $PWD
 |        .
 
 ```
-**Note**
-#Edit the ./workflows/nextflow.config
-#Add the following statement at the bottom in the nextflow.config
+**Note** \
+Edit the ./workflows/nextflow.config \
+Add the following statement at the bottom in the nextflow.config
 
 ```singularity.cacheDir = "${projectDir}/../singularity-images/"```
 
